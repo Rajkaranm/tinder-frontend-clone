@@ -1,0 +1,30 @@
+/* we will traget our main card class line 49 in TinderCards components */
+.card{
+    position: relative;
+    background-color: #fff;
+    width: 600px;
+    height: 50vh;
+    padding: 20px;
+    max-width: 85vw;
+    border-radius: 20px;
+    background-size: cover;
+    background-position: top;
+    box-shadow: 0 3px 20px 3px rgb(0 0 0 / 0.2);
+}
+
+.tinderCards__cardContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 7vh;
+}
+
+.swipe {
+    position: absolute;;
+}
+
+.card h3{
+    position: absolute;
+    bottom: 0;
+    margin: 10px;
+    color: #fff;
+}
