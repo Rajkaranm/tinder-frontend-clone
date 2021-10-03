@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/rkcodes-js/tinder-frontend-clone/blob/master/projectImg.PNG)
+![Logo](https://github.com/rkcodes-js/tinder-frontend-clone/blob/master/projectImg.png)
 #  Tinder Frontend Clone with reactjs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -20,6 +20,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## About project
 
 This project is made to understand react more in dept and to know how much react is powerfull.
+
+  
+## Features
+
+- You can move the image away from window
 
   
 ## Badges
