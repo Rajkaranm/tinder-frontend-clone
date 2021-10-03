@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/rkcodes-js/tinder-frontend-clone/blob/master/projectImg.png)
+![Logo](https://github.com/rkcodes-js/tinder-frontend-clone/blob/master/projectImg.PNG)
 #  Tinder Frontend Clone with reactjs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
