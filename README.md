@@ -9,8 +9,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Install my-project with git
 
 ```bash
-  git clone rkcodes-js/tinder-frontend-clone 
+  git clone https://github.com/rkcodes-js/tinder-frontend-clone.git
   cd tinder-frontend-clone
+  npm install
   npm run start
 ```
 Runs the app in the development mode.\
